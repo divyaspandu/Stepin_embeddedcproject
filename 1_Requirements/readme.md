@@ -6,8 +6,31 @@ The vehicle Seat heat monitoring system is capable of maintaining of heat in the
 Features:
 
 This will sense whether the driver or passenger seated or not.
+
 This is user friendly system.
 
 Strengths:
 
 This system can alter the temperature according to the environmental conditions
+
+WHAT:
+
+This is the seat temperature monitoring system.
+
+WHERE:
+
+This can used in automotive industries.
+
+WHEN:
+ 
+This can used in low temperature areas.
+
+WHY:
+
+This can be used for preventing health issues in low temperature areas.
+
+HOW:
+
+This can alter the temperature by generating heat through heater.
+
+
