@@ -24,6 +24,8 @@ ADC VALUE(temp sensor)       |     Output PWM
 
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/acb747e31b5544b88a82582c375cce5b)](https://www.codacy.com/gh/divyaspandu/Stepin_embeddedcproject/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=divyaspandu/Stepin_embeddedcproject&amp;utm_campaign=Badge_Grade)
+
+
 ![](https://www.code-inspector.com/project/28022/score/svg)
 
 ![](https://www.code-inspector.com/project/28022/status/svg)
